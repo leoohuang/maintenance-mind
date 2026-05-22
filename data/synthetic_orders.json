@@ -1,0 +1,1118 @@
+[
+  {
+    "order_id": "WO-2024-0001",
+    "date": "2024-02-02",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-01",
+    "reported_issue": "Operator reported weight variation on tablet press during routine production run 1.",
+    "diagnosis": "Technician reproduced the symptom and identified feeder paddle buildup as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned the feeder and verified fill depth.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "feeder paddle buildup",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0002",
+    "date": "2024-03-03",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-02",
+    "reported_issue": "Operator reported tablet capping on tablet press during routine production run 2.",
+    "diagnosis": "Technician reproduced the symptom and identified pre-compression force drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Adjusted pre-compression and checked tooling.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "pre-compression force drift",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0003",
+    "date": "2024-04-04",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-03",
+    "reported_issue": "Operator reported sticking on punches on tablet press during routine production run 3.",
+    "diagnosis": "Technician reproduced the symptom and identified granule moisture too high as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected punch faces and escalated material check.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "granule moisture too high",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0004",
+    "date": "2024-05-05",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-04",
+    "reported_issue": "Operator reported lower output rate on tablet press during routine production run 4.",
+    "diagnosis": "Technician reproduced the symptom and identified turret lubrication alarm as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleared lubrication line restriction.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "turret lubrication alarm",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0005",
+    "date": "2024-06-06",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-05",
+    "reported_issue": "Operator reported weight variation on tablet press during routine production run 5.",
+    "diagnosis": "Technician reproduced the symptom and identified feeder paddle buildup as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned the feeder and verified fill depth.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "feeder paddle buildup",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0006",
+    "date": "2024-07-07",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-01",
+    "reported_issue": "Operator reported tablet capping on tablet press during routine production run 6.",
+    "diagnosis": "Technician reproduced the symptom and identified pre-compression force drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Adjusted pre-compression and checked tooling.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "pre-compression force drift",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0007",
+    "date": "2024-08-08",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-02",
+    "reported_issue": "Operator reported sticking on punches on tablet press during routine production run 7.",
+    "diagnosis": "Technician reproduced the symptom and identified granule moisture too high as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected punch faces and escalated material check.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "granule moisture too high",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0008",
+    "date": "2024-09-09",
+    "equipment": "Tablet press",
+    "equipment_id": "Tablet-press-03",
+    "reported_issue": "Operator reported lower output rate on tablet press during routine production run 8.",
+    "diagnosis": "Technician reproduced the symptom and identified turret lubrication alarm as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleared lubrication line restriction.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "turret lubrication alarm",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0009",
+    "date": "2024-10-10",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-01",
+    "reported_issue": "Operator reported weak blister seals on blister packaging machine during routine production run 9.",
+    "diagnosis": "Technician reproduced the symptom and identified sealing temperature drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Recalibrated sealing temperature loop.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "sealing temperature drift"
+    ],
+    "root_cause": "sealing temperature drift",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0010",
+    "date": "2024-11-11",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-02",
+    "reported_issue": "Operator reported misaligned cutting on blister packaging machine during routine production run 10.",
+    "diagnosis": "Technician reproduced the symptom and identified web registration sensor contamination as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned sensor and verified registration.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "web registration sensor contamination",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0011",
+    "date": "2024-12-12",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-03",
+    "reported_issue": "Operator reported forming pocket defects on blister packaging machine during routine production run 11.",
+    "diagnosis": "Technician reproduced the symptom and identified forming air leak as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced cracked pneumatic tube.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "forming air leak",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0012",
+    "date": "2024-01-13",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-04",
+    "reported_issue": "Operator reported feed jams on blister packaging machine during routine production run 12.",
+    "diagnosis": "Technician reproduced the symptom and identified worn guide rail as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Realigned and replaced guide rail insert.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "worn guide rail",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0013",
+    "date": "2024-02-14",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-05",
+    "reported_issue": "Operator reported weak blister seals on blister packaging machine during routine production run 13.",
+    "diagnosis": "Technician reproduced the symptom and identified sealing temperature drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Recalibrated sealing temperature loop.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "sealing temperature drift"
+    ],
+    "root_cause": "sealing temperature drift",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0014",
+    "date": "2024-03-15",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-01",
+    "reported_issue": "Operator reported misaligned cutting on blister packaging machine during routine production run 14.",
+    "diagnosis": "Technician reproduced the symptom and identified web registration sensor contamination as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned sensor and verified registration.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "web registration sensor contamination",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0015",
+    "date": "2024-04-16",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-02",
+    "reported_issue": "Operator reported forming pocket defects on blister packaging machine during routine production run 15.",
+    "diagnosis": "Technician reproduced the symptom and identified forming air leak as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced cracked pneumatic tube.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "forming air leak",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0016",
+    "date": "2024-05-17",
+    "equipment": "Blister packaging machine",
+    "equipment_id": "Blister-packaging-machine-03",
+    "reported_issue": "Operator reported feed jams on blister packaging machine during routine production run 16.",
+    "diagnosis": "Technician reproduced the symptom and identified worn guide rail as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Realigned and replaced guide rail insert.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "worn guide rail",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0017",
+    "date": "2024-06-18",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-01",
+    "reported_issue": "Operator reported motor overload on high shear mixer during routine production run 17.",
+    "diagnosis": "Technician reproduced the symptom and identified impeller buildup as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned impeller and checked current draw.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "impeller buildup",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0018",
+    "date": "2024-07-19",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-02",
+    "reported_issue": "Operator reported seal leak on high shear mixer during routine production run 18.",
+    "diagnosis": "Technician reproduced the symptom and identified worn shaft seal as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced shaft seal and leak tested.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "worn shaft seal"
+    ],
+    "root_cause": "worn shaft seal",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0019",
+    "date": "2024-08-20",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-03",
+    "reported_issue": "Operator reported batch inconsistency on high shear mixer during routine production run 19.",
+    "diagnosis": "Technician reproduced the symptom and identified chopper speed mismatch as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Verified recipe speeds against batch record.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "chopper speed mismatch",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0020",
+    "date": "2024-09-21",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-04",
+    "reported_issue": "Operator reported abnormal vibration on high shear mixer during routine production run 20.",
+    "diagnosis": "Technician reproduced the symptom and identified blade wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected blade clearance and scheduled replacement.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "blade wear"
+    ],
+    "root_cause": "blade wear",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0021",
+    "date": "2024-10-22",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-05",
+    "reported_issue": "Operator reported motor overload on high shear mixer during routine production run 21.",
+    "diagnosis": "Technician reproduced the symptom and identified impeller buildup as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned impeller and checked current draw.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "impeller buildup",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0022",
+    "date": "2024-11-23",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-01",
+    "reported_issue": "Operator reported seal leak on high shear mixer during routine production run 22.",
+    "diagnosis": "Technician reproduced the symptom and identified worn shaft seal as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced shaft seal and leak tested.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "worn shaft seal"
+    ],
+    "root_cause": "worn shaft seal",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0023",
+    "date": "2024-12-24",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-02",
+    "reported_issue": "Operator reported batch inconsistency on high shear mixer during routine production run 23.",
+    "diagnosis": "Technician reproduced the symptom and identified chopper speed mismatch as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Verified recipe speeds against batch record.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "chopper speed mismatch",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0024",
+    "date": "2024-01-01",
+    "equipment": "High shear mixer",
+    "equipment_id": "High-shear-mixer-03",
+    "reported_issue": "Operator reported abnormal vibration on high shear mixer during routine production run 24.",
+    "diagnosis": "Technician reproduced the symptom and identified blade wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected blade clearance and scheduled replacement.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "blade wear"
+    ],
+    "root_cause": "blade wear",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0025",
+    "date": "2024-02-02",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-01",
+    "reported_issue": "Operator reported slow drying on fluid bed dryer during routine production run 25.",
+    "diagnosis": "Technician reproduced the symptom and identified inlet filter restriction as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Changed filter and confirmed air flow.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "inlet filter restriction",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0026",
+    "date": "2024-03-03",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-02",
+    "reported_issue": "Operator reported temperature overshoot on fluid bed dryer during routine production run 26.",
+    "diagnosis": "Technician reproduced the symptom and identified temperature probe drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Calibrated probe and checked controller.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "temperature probe drift",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0027",
+    "date": "2024-04-04",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-03",
+    "reported_issue": "Operator reported product loss on fluid bed dryer during routine production run 27.",
+    "diagnosis": "Technician reproduced the symptom and identified bag filter tear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced bag filter and inspected seals.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "bag filter tear",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0028",
+    "date": "2024-05-05",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-04",
+    "reported_issue": "Operator reported spray nozzle pulsing on fluid bed dryer during routine production run 28.",
+    "diagnosis": "Technician reproduced the symptom and identified atomizing air instability as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Checked regulator and air line.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "atomizing air instability",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0029",
+    "date": "2024-06-06",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-05",
+    "reported_issue": "Operator reported slow drying on fluid bed dryer during routine production run 29.",
+    "diagnosis": "Technician reproduced the symptom and identified inlet filter restriction as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Changed filter and confirmed air flow.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "inlet filter restriction",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0030",
+    "date": "2024-07-07",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-01",
+    "reported_issue": "Operator reported temperature overshoot on fluid bed dryer during routine production run 30.",
+    "diagnosis": "Technician reproduced the symptom and identified temperature probe drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Calibrated probe and checked controller.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "temperature probe drift",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0031",
+    "date": "2024-08-08",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-02",
+    "reported_issue": "Operator reported product loss on fluid bed dryer during routine production run 31.",
+    "diagnosis": "Technician reproduced the symptom and identified bag filter tear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced bag filter and inspected seals.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "bag filter tear",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0032",
+    "date": "2024-09-09",
+    "equipment": "Fluid bed dryer",
+    "equipment_id": "Fluid-bed-dryer-03",
+    "reported_issue": "Operator reported spray nozzle pulsing on fluid bed dryer during routine production run 32.",
+    "diagnosis": "Technician reproduced the symptom and identified atomizing air instability as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Checked regulator and air line.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "atomizing air instability",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0033",
+    "date": "2024-10-10",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-01",
+    "reported_issue": "Operator reported poor coating uniformity on coating pan during routine production run 33.",
+    "diagnosis": "Technician reproduced the symptom and identified bed depth imbalance as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Adjusted load and pan speed.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "bed depth imbalance",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0034",
+    "date": "2024-11-11",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-02",
+    "reported_issue": "Operator reported spray interruption on coating pan during routine production run 34.",
+    "diagnosis": "Technician reproduced the symptom and identified nozzle blockage as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned nozzle and verified spray pattern.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "nozzle blockage",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0035",
+    "date": "2024-12-12",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-03",
+    "reported_issue": "Operator reported excess tackiness on coating pan during routine production run 35.",
+    "diagnosis": "Technician reproduced the symptom and identified drying air temperature low as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Checked air heater and exhaust flow.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "drying air temperature low",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0036",
+    "date": "2024-01-13",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-04",
+    "reported_issue": "Operator reported pan vibration on coating pan during routine production run 36.",
+    "diagnosis": "Technician reproduced the symptom and identified drive belt wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Tensioned drive belt and inspected bearings.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "drive belt wear"
+    ],
+    "root_cause": "drive belt wear",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0037",
+    "date": "2024-02-14",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-05",
+    "reported_issue": "Operator reported poor coating uniformity on coating pan during routine production run 37.",
+    "diagnosis": "Technician reproduced the symptom and identified bed depth imbalance as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Adjusted load and pan speed.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "bed depth imbalance",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0038",
+    "date": "2024-03-15",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-01",
+    "reported_issue": "Operator reported spray interruption on coating pan during routine production run 38.",
+    "diagnosis": "Technician reproduced the symptom and identified nozzle blockage as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned nozzle and verified spray pattern.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "nozzle blockage",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0039",
+    "date": "2024-04-16",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-02",
+    "reported_issue": "Operator reported excess tackiness on coating pan during routine production run 39.",
+    "diagnosis": "Technician reproduced the symptom and identified drying air temperature low as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Checked air heater and exhaust flow.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "drying air temperature low",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0040",
+    "date": "2024-05-17",
+    "equipment": "Coating pan",
+    "equipment_id": "Coating-pan-03",
+    "reported_issue": "Operator reported pan vibration on coating pan during routine production run 40.",
+    "diagnosis": "Technician reproduced the symptom and identified drive belt wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Tensioned drive belt and inspected bearings.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "drive belt wear"
+    ],
+    "root_cause": "drive belt wear",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0041",
+    "date": "2024-06-18",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-01",
+    "reported_issue": "Operator reported low capsule fill weight on capsule filling machine during routine production run 41.",
+    "diagnosis": "Technician reproduced the symptom and identified dosing disc wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected dosing disc and retuned vacuum.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "dosing disc wear"
+    ],
+    "root_cause": "dosing disc wear",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0042",
+    "date": "2024-07-19",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-02",
+    "reported_issue": "Operator reported capsule separation jam on capsule filling machine during routine production run 42.",
+    "diagnosis": "Technician reproduced the symptom and identified vacuum loss as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced cracked vacuum hose.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "vacuum loss",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0043",
+    "date": "2024-08-20",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-03",
+    "reported_issue": "Operator reported powder spill on capsule filling machine during routine production run 43.",
+    "diagnosis": "Technician reproduced the symptom and identified tamping pin alignment as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Aligned tamping station and cleaned guides.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "tamping pin alignment",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0044",
+    "date": "2024-09-21",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-04",
+    "reported_issue": "Operator reported rejected capsules on capsule filling machine during routine production run 44.",
+    "diagnosis": "Technician reproduced the symptom and identified sensor lens contamination as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned inspection sensor lens.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "sensor lens contamination",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0045",
+    "date": "2024-10-22",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-05",
+    "reported_issue": "Operator reported low capsule fill weight on capsule filling machine during routine production run 45.",
+    "diagnosis": "Technician reproduced the symptom and identified dosing disc wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected dosing disc and retuned vacuum.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "dosing disc wear"
+    ],
+    "root_cause": "dosing disc wear",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0046",
+    "date": "2024-11-23",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-01",
+    "reported_issue": "Operator reported capsule separation jam on capsule filling machine during routine production run 46.",
+    "diagnosis": "Technician reproduced the symptom and identified vacuum loss as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced cracked vacuum hose.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "vacuum loss",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0047",
+    "date": "2024-12-24",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-02",
+    "reported_issue": "Operator reported powder spill on capsule filling machine during routine production run 47.",
+    "diagnosis": "Technician reproduced the symptom and identified tamping pin alignment as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Aligned tamping station and cleaned guides.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "tamping pin alignment",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0048",
+    "date": "2024-01-01",
+    "equipment": "Capsule filling machine",
+    "equipment_id": "Capsule-filling-machine-03",
+    "reported_issue": "Operator reported rejected capsules on capsule filling machine during routine production run 48.",
+    "diagnosis": "Technician reproduced the symptom and identified sensor lens contamination as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned inspection sensor lens.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "sensor lens contamination",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0049",
+    "date": "2024-02-02",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-01",
+    "reported_issue": "Operator reported underfilled vials on vial filling line during routine production run 49.",
+    "diagnosis": "Technician reproduced the symptom and identified pump calibration drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Recalibrated fill pump and sampled volumes.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "pump calibration drift",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0050",
+    "date": "2024-03-03",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-02",
+    "reported_issue": "Operator reported stopper placement faults on vial filling line during routine production run 50.",
+    "diagnosis": "Technician reproduced the symptom and identified stopper bowl feed issue as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleared bowl track and checked vibration.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "stopper bowl feed issue",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0051",
+    "date": "2024-04-04",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-03",
+    "reported_issue": "Operator reported line stoppage on vial filling line during routine production run 51.",
+    "diagnosis": "Technician reproduced the symptom and identified photoeye contamination as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned photoeye and verified trigger.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "photoeye contamination",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0052",
+    "date": "2024-05-05",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-04",
+    "reported_issue": "Operator reported drip at needle on vial filling line during routine production run 52.",
+    "diagnosis": "Technician reproduced the symptom and identified worn fill needle seal as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced seal and performed drip check.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "worn fill needle seal"
+    ],
+    "root_cause": "worn fill needle seal",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0053",
+    "date": "2024-06-06",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-05",
+    "reported_issue": "Operator reported underfilled vials on vial filling line during routine production run 53.",
+    "diagnosis": "Technician reproduced the symptom and identified pump calibration drift as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Recalibrated fill pump and sampled volumes.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "pump calibration drift",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0054",
+    "date": "2024-07-07",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-01",
+    "reported_issue": "Operator reported stopper placement faults on vial filling line during routine production run 54.",
+    "diagnosis": "Technician reproduced the symptom and identified stopper bowl feed issue as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleared bowl track and checked vibration.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "stopper bowl feed issue",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0055",
+    "date": "2024-08-08",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-02",
+    "reported_issue": "Operator reported line stoppage on vial filling line during routine production run 55.",
+    "diagnosis": "Technician reproduced the symptom and identified photoeye contamination as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned photoeye and verified trigger.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "photoeye contamination",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0056",
+    "date": "2024-09-09",
+    "equipment": "Vial filling line",
+    "equipment_id": "Vial-filling-line-03",
+    "reported_issue": "Operator reported drip at needle on vial filling line during routine production run 56.",
+    "diagnosis": "Technician reproduced the symptom and identified worn fill needle seal as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced seal and performed drip check.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "worn fill needle seal"
+    ],
+    "root_cause": "worn fill needle seal",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0057",
+    "date": "2024-10-10",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-01",
+    "reported_issue": "Operator reported cycle temperature deviation on autoclave sterilizer during routine production run 57.",
+    "diagnosis": "Technician reproduced the symptom and identified steam trap restriction as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected steam trap and condensate flow.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "steam trap restriction",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0058",
+    "date": "2024-11-11",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-02",
+    "reported_issue": "Operator reported door seal alarm on autoclave sterilizer during routine production run 58.",
+    "diagnosis": "Technician reproduced the symptom and identified gasket wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced door gasket and pressure tested.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "gasket wear"
+    ],
+    "root_cause": "gasket wear",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0059",
+    "date": "2024-12-12",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-03",
+    "reported_issue": "Operator reported slow vacuum pull-down on autoclave sterilizer during routine production run 59.",
+    "diagnosis": "Technician reproduced the symptom and identified vacuum pump filter clog as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Changed filter and checked leak rate.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "vacuum pump filter clog",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0060",
+    "date": "2024-01-13",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-04",
+    "reported_issue": "Operator reported wet load after cycle on autoclave sterilizer during routine production run 60.",
+    "diagnosis": "Technician reproduced the symptom and identified drain blockage as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned drain strainer and verified drying phase.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "drain blockage",
+    "resolution_time_hours": 3.5,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0061",
+    "date": "2024-02-14",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-05",
+    "reported_issue": "Operator reported cycle temperature deviation on autoclave sterilizer during routine production run 61.",
+    "diagnosis": "Technician reproduced the symptom and identified steam trap restriction as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Inspected steam trap and condensate flow.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "steam trap restriction",
+    "resolution_time_hours": 4.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0062",
+    "date": "2024-03-15",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-01",
+    "reported_issue": "Operator reported door seal alarm on autoclave sterilizer during routine production run 62.",
+    "diagnosis": "Technician reproduced the symptom and identified gasket wear as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Replaced door gasket and pressure tested.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [
+      "gasket wear"
+    ],
+    "root_cause": "gasket wear",
+    "resolution_time_hours": 1.25,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0063",
+    "date": "2024-04-16",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-02",
+    "reported_issue": "Operator reported slow vacuum pull-down on autoclave sterilizer during routine production run 63.",
+    "diagnosis": "Technician reproduced the symptom and identified vacuum pump filter clog as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Changed filter and checked leak rate.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "vacuum pump filter clog",
+    "resolution_time_hours": 2.0,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  },
+  {
+    "order_id": "WO-2024-0064",
+    "date": "2024-05-17",
+    "equipment": "Autoclave sterilizer",
+    "equipment_id": "Autoclave-sterilizer-03",
+    "reported_issue": "Operator reported wet load after cycle on autoclave sterilizer during routine production run 64.",
+    "diagnosis": "Technician reproduced the symptom and identified drain blockage as the leading cause.",
+    "actions_taken": [
+      "Made equipment safe and reviewed recent alarms.",
+      "Cleaned drain strainer and verified drying phase.",
+      "Ran verification checks before release to production."
+    ],
+    "parts_replaced": [],
+    "root_cause": "drain blockage",
+    "resolution_time_hours": 2.75,
+    "technician_notes": "Demo work order generated offline for retrieval testing."
+  }
+]

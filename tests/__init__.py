@@ -1,0 +1,1 @@
+"""MaintenanceMind smoke tests."""

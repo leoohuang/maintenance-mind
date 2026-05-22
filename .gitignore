@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Data cache
+data/indices/*.faiss
+data/indices/*.pkl
+
+# Local memory state
+memory/memory.json
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml

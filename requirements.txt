@@ -1,0 +1,16 @@
+openai>=1.40.0
+python-dotenv>=1.0.0
+# 向量检索
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+# 文档处理
+pypdf>=4.0.0
+# Web 搜索
+ddgs>=9.0.0
+# UI
+streamlit>=1.36.0
+# 工具
+rich>=13.7.0 # 终端美化
+tenacity>=8.5.0 # 重试逻辑
+pydantic>=2.7.0 # 数据校验
