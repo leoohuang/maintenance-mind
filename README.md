@@ -6,7 +6,6 @@
 > evidence from work-order history, equipment manuals, and the web before it
 > answers.
 
-Course project for LIS060 Natural Language Processing at Stockholm University.
 
 ## Project Goal
 
