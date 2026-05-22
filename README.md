@@ -1,6 +1,6 @@
 # MaintenanceMind
 
-![MaintenanceMind banner](assets/maintenance-mind-banner.svg)
+![MaintenanceMind banner](assets/maintenance-mind-banner-clean.svg)
 
 > MaintenanceMind is an industrial maintenance investigation agent that retrieves
 > evidence from work-order history, equipment manuals, and the web before it

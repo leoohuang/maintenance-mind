@@ -1,0 +1,15 @@
+<svg width="1440" height="320" viewBox="0 0 1440 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="96" y1="42" x2="1342" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFC"/>
+      <stop offset="1" stop-color="#EEF5F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1440" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="44" y="44" width="1352" height="232" rx="18" fill="white" fill-opacity="0.52" stroke="#D4E3E8" stroke-width="2"/>
+
+  <rect x="640" y="90" width="160" height="6" rx="3" fill="#2E7D8A"/>
+  <text x="720" y="174" text-anchor="middle" fill="#173042" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="0">MaintenanceMind</text>
+  <text x="720" y="226" text-anchor="middle" fill="#526C79" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="0">Self-reflective retrieval for industrial maintenance agents</text>
+</svg>
