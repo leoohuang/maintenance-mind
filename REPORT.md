@@ -3,7 +3,7 @@
 **Course:** LIS060 Natural Language Processing  
 **Assignment:** Assignment 2 AI Agents  
 **Author:** Leo Huang  
-**Repository:** Add final public GitHub URL before submission  
+**Repository:** https://github.com/leoohuang/maintenance-mind  
 **Demo video:** Add final video URL before submission
 
 ## 1. Problem And Goal
