@@ -1,0 +1,50 @@
+<svg width="1440" height="420" viewBox="0 0 1440 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1440" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAFC"/>
+      <stop offset="1" stop-color="#EDF4F7"/>
+    </linearGradient>
+    <linearGradient id="line" x1="246" y1="168" x2="1160" y2="264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2E7D8A"/>
+      <stop offset="0.52" stop-color="#2670B8"/>
+      <stop offset="1" stop-color="#D68A2D"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#173042" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="420" rx="28" fill="url(#panel)"/>
+  <rect x="28" y="28" width="1384" height="364" rx="22" fill="white" fill-opacity="0.72" stroke="#D5E3EA"/>
+
+  <g opacity="0.9">
+    <path d="M200 222H331C359 222 359 172 387 172H538C566 172 566 222 594 222H750C778 222 778 172 806 172H962C990 172 990 222 1018 222H1219" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M200 260H378C407 260 407 306 436 306H635C664 306 664 260 693 260H886C915 260 915 306 944 306H1219" stroke="#BFD7E1" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 13"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="174" y="146" width="78" height="78" rx="18" fill="#E6F5F5" stroke="#A9D6D8"/>
+    <path d="M194 173H230M194 191H222M194 209H216" stroke="#2E7D8A" stroke-width="5" stroke-linecap="round"/>
+
+    <rect x="1189" y="146" width="78" height="78" rx="18" fill="#FFF3E1" stroke="#E7C58D"/>
+    <path d="M1210 185L1228 203L1250 169" stroke="#C7781B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g fill="#2670B8">
+    <circle cx="387" cy="172" r="9"/>
+    <circle cx="594" cy="222" r="9"/>
+    <circle cx="806" cy="172" r="9"/>
+    <circle cx="1018" cy="222" r="9"/>
+  </g>
+
+  <g>
+    <rect x="972" y="86" width="110" height="38" rx="19" fill="#E6F5F5"/>
+    <text x="1027" y="111" text-anchor="middle" fill="#2E7D8A" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0">IR tools</text>
+    <rect x="1094" y="86" width="162" height="38" rx="19" fill="#EEF3FB"/>
+    <text x="1175" y="111" text-anchor="middle" fill="#2670B8" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0">reflection loop</text>
+  </g>
+
+  <text x="720" y="190" text-anchor="middle" fill="#173042" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="0">MaintenanceMind</text>
+  <text x="720" y="252" text-anchor="middle" fill="#496575" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="0">Self-reflective retrieval for industrial maintenance agents</text>
+  <text x="720" y="315" text-anchor="middle" fill="#6F8794" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0">work orders   manuals   web search   memory   skills</text>
+</svg>
