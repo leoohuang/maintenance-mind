@@ -1,8 +1,7 @@
 # MaintenanceMind: Self-Reflective Retrieval for an Industrial Maintenance Agent
 
-**Course:** LIS060 Natural Language Processing  
 **Assignment:** Assignment 2 AI Agents  
-**Author:** Leo Huang  
+**Author:** Tianle Huang  
 **Repository:** https://github.com/leoohuang/maintenance-mind  
 **Demo video:** https://drive.google.com/file/d/1311PxxFND0SnC4-Oppda534CQTNoIR5A/view?usp=sharing
 
