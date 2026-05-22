@@ -87,9 +87,6 @@ main.py      CLI entry point
 - An OpenAI-compatible LLM API key
 - Internet access for model downloads and optional web search
 
-Berget.AI works because it exposes an OpenAI-compatible endpoint. Other
-OpenAI-compatible providers can be configured with the same environment fields.
-
 ### Install
 
 ```bash
