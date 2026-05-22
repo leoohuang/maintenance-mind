@@ -4,7 +4,7 @@
 **Assignment:** Assignment 2 AI Agents  
 **Author:** Leo Huang  
 **Repository:** https://github.com/leoohuang/maintenance-mind  
-**Demo video:** Add final video URL before submission
+**Demo video:** https://drive.google.com/file/d/1311PxxFND0SnC4-Oppda534CQTNoIR5A/view?usp=sharing
 
 ## 1. Problem And Goal
 
